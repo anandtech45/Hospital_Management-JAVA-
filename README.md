@@ -47,4 +47,4 @@ Run the app.java file located in the src directory
 
 # Author name
 
-NIKHIL RAJ
+ANAND KUMAR
